@@ -1,4 +1,4 @@
-﻿host_id,price,number_of_reviews,calculated_host_listings_count,availability_365,host_since_days,host_is_superhost,,host_listings_count,host_total_listings_count,host_has_profile_pic,,host_identity_verified,,accommodates,bathrooms,bedrooms,beds,avg_rm,availability_30,availability_60,availability_90,number_of_reviews_ltm,instant_bookable,,NumberOfVerfication,govermentIdentification,,numberofamentities
+﻿host_id,price,number_of_reviews,calculated_host_listings_count,availability_365,host_since_days,host_is_superhost,,host_listings_count,host_total_listings_count,host_has_profile_pic,,host_identity_verified,,accommodates,bathrooms,bedrooms,beds,avg_rm,availability_30,availability_60,availability_90,number_of_reviews_ltm,instant_bookable,,NumberOfVerfication,govermentIdentification,govermentIdentification,numberofamentities
 111468433,161,0,1,89,1396,f,1,1,1,t,0,f,1,2,1,1,1,1,30,60,89,0,f,1,1,no,0,15
 140139274,39,16,5,0,1217,f,1,5,5,t,0,f,1,1,1,1,1,1,0,0,0,0,f,1,6,no,0,19
 225508386,39,1,1,87,728,f,1,1,1,t,0,t,0,4,15,2,1,6,0,0,0,1,t,0,6,yes,1,45
